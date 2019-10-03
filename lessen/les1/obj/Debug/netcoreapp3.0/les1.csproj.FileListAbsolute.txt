@@ -1,0 +1,11 @@
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\bin\Debug\netcoreapp3.0\les1.exe
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\bin\Debug\netcoreapp3.0\les1.deps.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\bin\Debug\netcoreapp3.0\les1.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\bin\Debug\netcoreapp3.0\les1.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\bin\Debug\netcoreapp3.0\les1.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\bin\Debug\netcoreapp3.0\les1.pdb
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\obj\Debug\netcoreapp3.0\les1.csprojAssemblyReference.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\obj\Debug\netcoreapp3.0\les1.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\obj\Debug\netcoreapp3.0\les1.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\obj\Debug\netcoreapp3.0\les1.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\lessen\les1\obj\Debug\netcoreapp3.0\les1.pdb
