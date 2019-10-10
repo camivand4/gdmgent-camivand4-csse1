@@ -1,0 +1,11 @@
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\bin\Debug\netcoreapp3.0\Tafels.exe
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\bin\Debug\netcoreapp3.0\Tafels.deps.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\bin\Debug\netcoreapp3.0\Tafels.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\bin\Debug\netcoreapp3.0\Tafels.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\bin\Debug\netcoreapp3.0\Tafels.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\bin\Debug\netcoreapp3.0\Tafels.pdb
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\obj\Debug\netcoreapp3.0\Tafels.csprojAssemblyReference.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\obj\Debug\netcoreapp3.0\Tafels.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\obj\Debug\netcoreapp3.0\Tafels.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\obj\Debug\netcoreapp3.0\Tafels.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\Tafels\obj\Debug\netcoreapp3.0\Tafels.pdb
