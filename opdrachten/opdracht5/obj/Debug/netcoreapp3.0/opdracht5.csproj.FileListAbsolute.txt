@@ -1,0 +1,11 @@
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\bin\Debug\netcoreapp3.0\opdracht5.exe
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\bin\Debug\netcoreapp3.0\opdracht5.deps.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\bin\Debug\netcoreapp3.0\opdracht5.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\bin\Debug\netcoreapp3.0\opdracht5.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\bin\Debug\netcoreapp3.0\opdracht5.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\bin\Debug\netcoreapp3.0\opdracht5.pdb
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\obj\Debug\netcoreapp3.0\opdracht5.csprojAssemblyReference.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\obj\Debug\netcoreapp3.0\opdracht5.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\obj\Debug\netcoreapp3.0\opdracht5.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\obj\Debug\netcoreapp3.0\opdracht5.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht5\obj\Debug\netcoreapp3.0\opdracht5.pdb
