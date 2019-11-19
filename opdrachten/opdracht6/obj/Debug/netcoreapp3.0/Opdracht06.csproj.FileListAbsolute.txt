@@ -1,0 +1,22 @@
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/obj/Debug/netcoreapp3.0/Opdracht06.csprojAssemblyReference.cache
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/obj/Debug/netcoreapp3.0/Opdracht06.AssemblyInfoInputs.cache
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/obj/Debug/netcoreapp3.0/Opdracht06.AssemblyInfo.cs
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/bin/Debug/netcoreapp3.0/Opdracht06
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/bin/Debug/netcoreapp3.0/Opdracht06.deps.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/bin/Debug/netcoreapp3.0/Opdracht06.runtimeconfig.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/bin/Debug/netcoreapp3.0/Opdracht06.runtimeconfig.dev.json
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/bin/Debug/netcoreapp3.0/Opdracht06.dll
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/bin/Debug/netcoreapp3.0/Opdracht06.pdb
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/obj/Debug/netcoreapp3.0/Opdracht06.dll
+/Users/jefvermeire/Desktop/school/2019-2020/semester_1/CSSE/gdmgent-jefverme-csse1/opdrachten/Opdracht06/obj/Debug/netcoreapp3.0/Opdracht06.pdb
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\bin\Debug\netcoreapp3.0\Opdracht06.exe
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\bin\Debug\netcoreapp3.0\Opdracht06.deps.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\bin\Debug\netcoreapp3.0\Opdracht06.runtimeconfig.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\bin\Debug\netcoreapp3.0\Opdracht06.runtimeconfig.dev.json
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\bin\Debug\netcoreapp3.0\Opdracht06.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\bin\Debug\netcoreapp3.0\Opdracht06.pdb
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\obj\Debug\netcoreapp3.0\Opdracht06.csprojAssemblyReference.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\obj\Debug\netcoreapp3.0\Opdracht06.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\obj\Debug\netcoreapp3.0\Opdracht06.AssemblyInfo.cs
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\obj\Debug\netcoreapp3.0\Opdracht06.dll
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht6\obj\Debug\netcoreapp3.0\Opdracht06.pdb
