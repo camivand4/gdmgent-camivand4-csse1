@@ -3,7 +3,7 @@ using System.Configuration;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace opdracht6
+namespace opdracht7
 {
 	public class Gebruiker : Persoon
 	{

@@ -1,0 +1,3 @@
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.csprojAssemblyReference.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.AssemblyInfoInputs.cache
+D:\OneDrive - Arteveldehogeschool\HogeSchoolArtevelde\Jaar 2\CSSE-1\2de keer\code\gdmgent-camivand4-csse1\opdrachten\opdracht7\obj\Debug\netcoreapp3.0\opdracht7.AssemblyInfo.cs

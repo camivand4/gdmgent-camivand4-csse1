@@ -1,6 +1,6 @@
 using System;
 
-namespace opdracht6
+namespace opdracht7
 {
 	public class Student : Gebruiker
 	{

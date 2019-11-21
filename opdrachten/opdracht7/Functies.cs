@@ -1,8 +1,8 @@
 using System;
 
-namespace opdracht6
+namespace opdracht7
 {
-	public static class Functies {
+	public static class Functies : Persoon {
  		// product
         static int Product(int getal1, int getal2){
             return getal1 * getal2;
@@ -55,28 +55,28 @@ namespace opdracht6
         }
 
         static void Lotto() {
-            SchrijfLog("lottotrekking");
+            LogOutput("lottotrekking");
             for (int i = 0; i < 6; i++)
             {
-                SchrijfLog(GenereerWillekeurigGetalTussenWaarden(1,45));
+                LogOutput(GenereerWillekeurigGetalTussenWaarden(1,45));
                 //thread zorgt voor de vertraging
                 Thread.Sleep(2000);
             }
         }
 
         static void Euromillions() {
-            SchrijfLog("Euromillions");
+            LogOutput("Euromillions");
             for (int i = 0; i < 5; i++)
             {
-                SchrijfLog(GenereerWillekeurigGetalTussenWaarden(1,50));
+                LogOutput(GenereerWillekeurigGetalTussenWaarden(1,50));
                 //thread zorgt voor de vertraging
                 Thread.Sleep(5000);
             }
-            SchrijfLog("sterren");
+            LogOutput("sterren");
 
             for (int i = 0; i < 2; i++)
             {
-                SchrijfLog(GenereerWillekeurigGetalTussenWaarden(1,12));
+                LogOutput(GenereerWillekeurigGetalTussenWaarden(1,12));
                 //thread zorgt voor de vertraging
                 Thread.Sleep(2000);
             }
