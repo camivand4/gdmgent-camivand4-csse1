@@ -2,7 +2,7 @@ using System;
 
 namespace opdracht7
 {
-	public static class Functies : Persoon {
+	public class Functies : Persoon {
  		// product
         static int Product(int getal1, int getal2){
             return getal1 * getal2;

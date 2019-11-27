@@ -5,6 +5,10 @@ using System.Text;
 
 namespace opdracht7
 {
+    static void Main(string[] args) {
+
+    }
+
 	public class Gebruiker : Persoon
 	{
 		// Velden
